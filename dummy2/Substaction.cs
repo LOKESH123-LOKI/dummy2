@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace dummy2
 {
-    public class UC1
+  public class Substaction
     {
-        public static void add()
+        public static void sub()
         {
-            Console.WriteLine(10 + 20);
+            Console.WriteLine(20 - 30);
         }
     }
 }
